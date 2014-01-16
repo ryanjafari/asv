@@ -1,0 +1,22 @@
+.bundle
+.dat*
+.repl_history
+.DS_Store
+.rubocop.yml
+build
+bin
+vendor
+
+# tags
+# app/pixate_code.rb
+# resources/*.nib
+# resources/*.momd
+# resources/*.storyboardc
+# nbproject
+# .redcar
+# #*#
+# *~
+# *.sw[po]
+# .eprj
+# .sass-cache
+# .idea
